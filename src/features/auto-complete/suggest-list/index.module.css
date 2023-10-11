@@ -1,0 +1,9 @@
+.list {
+  margin-top: 12px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}

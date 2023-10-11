@@ -1,0 +1,19 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 100%;
+  max-width: 420px;
+}
+
+.formItem {
+  margin-bottom: 28px;
+}
+
+.submitButton {
+  width: 100%;
+}
+
+.formError {
+  margin-bottom: 12px;
+}
